@@ -1,1 +1,1 @@
-foo
+Master branch
