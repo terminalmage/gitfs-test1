@@ -1,0 +1,3 @@
+[submodule "modules/pillar"]
+	path = modules/pillar
+	url = https://github.com/terminalmage/git_pillar
