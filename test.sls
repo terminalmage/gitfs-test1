@@ -1,2 +1,2 @@
-date:
+echo dev:
   cmd.run
