@@ -1,2 +1,2 @@
-date:
+echo master:
   cmd.run
