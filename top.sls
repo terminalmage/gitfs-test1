@@ -1,3 +1,3 @@
 dev:
   '*':
-    - test2.sls
+    - dev
