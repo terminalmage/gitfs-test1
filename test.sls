@@ -1,2 +1,2 @@
-echo "{{ saltenv }} (pillar: {{ pillar.foo }})":
+echo "{{ saltenv }} (pillar value is {{ pillar.foo }})":
   cmd.run
